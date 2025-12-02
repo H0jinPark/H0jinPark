@@ -36,7 +36,6 @@ SKKU 산업공학 + 데이터사이언스 융합전공 기반으로
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00648B?style=for-the-badge&logo=mysql&logoColor=white)
 ![AutoML](https://img.shields.io/badge/AutoML-0A66C2?style=for-the-badge&logo=automl&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 📝 Collaboration
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
