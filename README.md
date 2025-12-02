@@ -26,14 +26,10 @@ SKKU 산업공학 + 데이터사이언스 융합전공 기반으로
 
 ## 🛠 Tech Stack
 
-### 🔥 AI / ML
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-F7931E?style=for-the-badge&logo=huggingface&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+### 🛠 Tech Stack
 
-### 📊 Data / MLOps
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00648B?style=for-the-badge&logo=mysql&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=python,r,py,pytorch,sklearn,tensorflow,pandas,numpy,postgresql,mysql,sqlite,git,github,linux,docker,aws,vscode,githubactions&perline=9)](https://skillicons.dev)
+
 ![AutoML](https://img.shields.io/badge/AutoML-0A66C2?style=for-the-badge&logo=automl&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
