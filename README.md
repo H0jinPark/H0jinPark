@@ -13,9 +13,9 @@ SKKU 산업공학 + 데이터사이언스 융합전공 기반으로
 
 📌 주요 경험  
 - 시계열 예측(수요·환경 데이터)  
-- NLP 기반 욕설 탐지 & 순화 모델 개발  **2026 CHI Poster**
+- NLP 기반 욕설 탐지 & 순화 모델 개발  **(2026 CHI Poster)**
 - K-Fashion 감성 텍스트 기반 이미지 생성 모델(ControlNet)  
-- 도시 vs 비도시 정보 요구 차이 연구, **2025 ASIS&T Short Paper**
+- 도시 vs 비도시 정보 요구 차이 연구, **(2025 ASIS&T Short Paper)**
 - 최적화 기반 JSSP(공정 스케줄링) + Node2Vec 임베딩  
 - AutoML, 대규모 ML 실험 관리, HuggingFace 기반 모델 운영  
 
